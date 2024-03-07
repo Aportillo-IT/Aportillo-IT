@@ -2,10 +2,22 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- <b> Cloud Security </b>
+  - [Secure Azure resources using Azure RBAC](https://learn.microsoft.com/api/achievements/share/en-us/AnthonyPortillo-5657/NY5SVRHF?sharingId=5C2CF127BB7FBD8B)
+
 <h2>👨‍💻 Azure based Projects:</h2>
 
-- <b> IaC using Azure Powershell (Bicep)</b>
-  - [Practice creating templates and defining resources](https://www.linkedin.com/posts/anthony-portillo-2210a2196_today-i-learned-how-to-define-a-resource-activity-7079141270970896386-TT3n?utm_source=share&utm_medium=member_desktop)
+- <b> IaC </b>
+  - [Deploy Azure infrastructure by using JSON ARM templates](https://www.linkedin.com/posts/anthony-portillo-2210a2196_today-i-learned-how-to-define-a-resource-activity-7079141270970896386-TT3n?utm_source=share&utm_medium=member_desktop)
+  - [Automate Azure tasks using scripts with PowerShell](https://learn.microsoft.com/api/achievements/share/en-us/AnthonyPortillo-5657/HFPM7Y88?sharingId=5C2CF127BB7FBD8B)
+- <b> Azure Storage </b>
+  - [Use shared access signatures to delegate access to Azure Storage](https://learn.microsoft.com/api/achievements/share/en-us/AnthonyPortillo-5657/ZF94XS2S?sharingId=5C2CF127BB7FBD8B)
+  - [Configure Azure Storage security](https://learn.microsoft.com/api/achievements/share/en-us/AnthonyPortillo-5657/4D4ARQGK?sharingId=5C2CF127BB7FBD8B)
+  - [Configure Azure Blob Storage](https://learn.microsoft.com/api/achievements/share/en-us/AnthonyPortillo-5657/3WUFJZKH?sharingId=5C2CF127BB7FBD8B)
+ 
+- <b> Virtual Machines </b>
+  - [Deploy, configure, scale, and monitor compute resources](https://learn.microsoft.com/api/achievements/share/en-us/AnthonyPortillo-5657/HFWV6FB8?sharingId=5C2CF127BB7FBD8B)
+
 
 <h2>👨‍💻 Certifications:</h2>
 
@@ -24,6 +36,8 @@
 
 <h2>👨‍💻 Completed coursework:</h2>
 
+- <b>Nmap deep dive (TryHackme)</b>
+  - [Perform various scans and use NSE Scripting](https://tryhackme.com/room/furthernmap)
 
 
 
