@@ -4,6 +4,9 @@
 
 <h2>👨‍💻 Azure based Projects:</h2>
 
+- <b> IaC using Azure Powershell (Bicep)</b>
+  - [Practice creating templates and defining resources](https://www.linkedin.com/posts/anthony-portillo-2210a2196_today-i-learned-how-to-define-a-resource-activity-7079141270970896386-TT3n?utm_source=share&utm_medium=member_desktop)
+
 <h2>👨‍💻 Certifications:</h2>
 
   
