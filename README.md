@@ -39,6 +39,8 @@
 - <b>Nmap deep dive (TryHackme)</b>
   - [Perform various scans and use NSE Scripting](https://tryhackme.com/room/furthernmap)
 
+- <b>Intro to Network Traffic Analysis by Hack the Box (In Progress)</b>
+  - [Labs completed during this course](https://github.com/Aportillo-IT/Intro-to-Network-Traffic-Analysis---HTB)
 
 
 
