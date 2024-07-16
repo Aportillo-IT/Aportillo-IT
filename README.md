@@ -20,8 +20,8 @@
 
 <h2>👨‍💻 Networking Projects:</h2>
 
-- <b> Wipe and upgrade Fortgate firewall firmware using TFTP server </b>
-  - #Enter hyperlink here
+- <b> Network device configurations </b>
+   - [Factory reset and firmware upgrade using TFTP server on FortiGate 80E](https://github.com/Aportillo-IT/Fortigate-80E-Firmware-upgrade/tree/main)
 
 <h2>👨‍💻 Certifications:</h2>
 
