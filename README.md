@@ -18,6 +18,10 @@
 - <b> Virtual Machines </b>
   - [Deploy, configure, scale, and monitor compute resources](https://learn.microsoft.com/api/achievements/share/en-us/AnthonyPortillo-5657/HFWV6FB8?sharingId=5C2CF127BB7FBD8B)
 
+<h2>👨‍💻 Networking Projects:</h2>
+
+- <b> Wipe and upgrade Fortgate firewall firmware using TFTP server </b>
+  - #Enter hyperlink here
 
 <h2>👨‍💻 Certifications:</h2>
 
